@@ -1,8 +1,21 @@
 [
   {
-    "نام": "sketchtool",
+    "نام": "اسکچ ابزار",
     "ایکن": "https://s4.uupload.ir/files/icon_ponk.png",
     "تیک": "بله",
-    "آدرس": "google.com"
+    "آدرس": "https://google.com",
+    "سازنده": "تیم bsm",
+    "درباره": "اپلیکیشنی برای یادگیری اسکوچر و ساخت برنامه بدون کدنویسی",
+    "1": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۴۹_55p8.jpg",
+    "2": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۳۹_lx2s.jpg",
+    "3": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۳۶_ojoz.jpg",
+    "اتصال": "آنلاین",
+    "نوع": "برنامه",
+    "سن": "8+",
+    "بروزرسانی": "1400/03/00",
+    "دسته بندی": "آموزشی،کاربردی",
+    "حجم": "نامشخص",
+    "نسخه": "1",
+    "پکیج": "ir.sketch.tool"
   }
 ]
