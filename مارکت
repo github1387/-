@@ -1,7 +1,21 @@
 [
   {
-    "نام": "sketchtool",
+    "نام": "bsm learn",
+    "سازنده": "مهدی ولایتی",
+    "درباره": "اپلیکیشنی رایگان برای اموزش اسکوچر و ساخت برنامه بدون کد نویسی ",
     "پروفایل": "https://s4.uupload.ir/files/icon_ponk.png",
-    "سایت": "https://google.com"
+    "1": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۴۹_55p8.jpg",
+    "2": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۳۹_lx2s.jpg",
+    "3": "https://s4.uupload.ir/files/screenshot_۲۰۲۱۰۵۲۰-۰۰۴۴۳۶_ojoz.jpg",
+    "سایت": "http://Google.com",
+    "اتصال": "انلاین",
+    "نوع": "برنامه",
+    "سن": "۸+",
+    "بروزرسانی": "1400/2/30",
+    "دسته بندی": "کاربردی،آموزشی",
+    "حجم:": "نامشخص",
+    "نسخه": "1",
+    "پکیج": "ir.sketch.tool",
+    "تیک": "اره"
   }
 ]
